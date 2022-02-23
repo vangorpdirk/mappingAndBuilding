@@ -79,8 +79,8 @@ This code makes it very easy to create new objects or to pass values along diffe
             .firstDocumented(covidDTO.getFirstDocumented())
             .build();
 
-# Conclusion 
+## Conclusion 
 
 I know 
 
-The full code can be found on our [Craftcode Github]()
+The full code can be found on our [Craftcode Github](https://github.com/vangorpdirk/mappingAndBuilding). 
